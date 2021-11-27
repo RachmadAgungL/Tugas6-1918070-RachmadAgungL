@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jobscheclude</string>
+    <string-array name="nama_kota">
+        <item>Makasar</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Batam</item>
+        <item>Malang</item>
+    </string-array>
+
+</resources>
